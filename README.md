@@ -76,3 +76,8 @@ VAP-IoT-Application-Scanner is a smartphone or computer-based application that a
 
     4)Bulk export of device profiles and historical logs.
 
+## Authors
+
+- **Vijay Kishore Asokan**
+- **Ayyappan Subramanian**
+- **Preethi Srikanth**
